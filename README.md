@@ -1,10 +1,10 @@
-# Algorithm Comparison and Implementation Project
+# :mortar_board: Algorithm Comparison and Implementation Project
 
-## Project Summary
+## :pushpin: Project Summary
 
 This project, developed with the contributions of **Arshnoor Kaur** and **Zain Siddhiqi**, provides a comprehensive comparison of the Dijkstra and Bellman-Ford algorithms, exploring their performance under various conditions. The study is divided into several sections, each focusing on different aspects of these algorithms, including their efficiency, accuracy, and applicability in various scenarios. Additionally, the project delves into the A* algorithm, examining its advantages over Dijkstra's algorithm and implementing it using the Adapter pattern.
 
-## Table of Contents
+## :ledger: Table of Contents
 
 1. [List of Figures](#list-of-figures)
 2. [Section 1](#section-1)
@@ -58,7 +58,7 @@ This project, developed with the contributions of **Arshnoor Kaur** and **Zain S
         - [Acyclic Graphs (DAGs)](#acyclic-graphs-dags)
         - [Random Graphs](#random-graphs)
 
-## Key Sections and Experiments
+## :dart: Key Sections and Experiments
 
 ### Comparison of Dijkstra and Bellman-Ford Algorithms
 
@@ -102,6 +102,6 @@ This project, developed with the contributions of **Arshnoor Kaur** and **Zain S
 
 The project discusses various types of graphs (finite, infinite, weighted, directed, acyclic, and random) and their implementations, demonstrating the versatility of the algorithms in different graph scenarios.
 
-## Conclusion
+## :tada: Conclusion
 
 The project concludes with a reflection on the robustness and flexibility of the A* algorithm when implemented using the Adapter pattern, along with the overall benefits of each algorithm in different contexts. Through detailed experiments and analyses, this study provides a thorough understanding of Dijkstra, Bellman-Ford, and A* algorithms, their strengths, weaknesses, and practical applications in solving shortest path problems.
