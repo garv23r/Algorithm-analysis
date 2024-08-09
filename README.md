@@ -4,6 +4,14 @@
 
 This project, developed with the contributions of **Arshnoor Kaur** and **Zain Siddhiqi**, provides a comprehensive comparison of the Dijkstra and Bellman-Ford algorithms, exploring their performance under various conditions. The study is divided into several sections, each focusing on different aspects of these algorithms, including their efficiency, accuracy, and applicability in various scenarios. Additionally, the project delves into the A* algorithm, examining its advantages over Dijkstra's algorithm and implementing it using the Adapter pattern.
 
+## :sunglasses: Tech Stack
+
+- **Programming Language:** Python
+- **Libraries and Frameworks:**
+  - **NumPy:** For numerical operations and handling large datasets.
+  - **Matplotlib:** For visualizing the results of the experiments with graphs and charts.
+  - **Priority Queue:** Custom implementation to manage node priorities in A* algorithm.
+
 ## :ledger: Table of Contents
 
 1. [List of Figures](#list-of-figures)
